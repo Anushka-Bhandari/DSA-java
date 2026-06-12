@@ -1,5 +1,4 @@
-import java.util.Scanner;
-
+import java.util.*;
 public class string_anagrams {
     public static boolean anagrams(String str1, String str2){
         StringBuilder s1 = new StringBuilder(str1);
