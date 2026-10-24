@@ -1,11 +1,11 @@
 # Data Structures & Algorithms in Java
 
-This repository contains my Java implementations of Data Structures & Algorithms concepts along with handwritten notes created during my learning journey.
+A collection of my Java implementations of Data Structures and Algorithms, practice problems, and handwritten notes as I build my problem-solving skills.
 
-## Repository Structure
+## 📂 Repository Structure
 
-```
-DSA/
+```text
+DSA-java/
 ├── Array-Problems/
 ├── Arrays/
 ├── Bit-Manipulation/
@@ -13,25 +13,27 @@ DSA/
 ├── Searching/
 ├── Sorting/
 ├── Strings/
+├── Strivers-A2Z/
+│   └── Recursion/
 ├── DSA-Java-notes.pdf
 ├── README.md
 └── .gitignore
 ```
 
-## Topics Covered
+## 📚 Topics Covered
 
 ### Arrays
-- Largest Number in Array
-- Reverse Array
-- Print Pairs
-- Print Subarrays
+- Finding the Largest Number
+- Reversing an Array
+- Printing Pairs
+- Printing Subarrays
 
 ### Array Problems
-- Maximum Subarray Sum (Brute Force)
-- Maximum Subarray Sum (Prefix Sum)
+- Maximum Subarray Sum — Brute Force
+- Maximum Subarray Sum — Prefix Sum
 - Kadane's Algorithm
 - Trapping Rainwater
-- Buy & Sell Stocks
+- Buy and Sell Stocks
 - Contains Duplicate
 
 ### Searching
@@ -40,20 +42,20 @@ DSA/
 - Search in Rotated Sorted Array
 
 ### Sorting
-- Bubble Sort (Ascending & Descending)
-- Selection Sort (Ascending & Descending)
-- Insertion Sort (Ascending & Descending)
-- Counting Sort (Ascending & Descending)
-- Java Inbuilt Sorting
+- Bubble Sort — Ascending and Descending
+- Selection Sort — Ascending and Descending
+- Insertion Sort — Ascending and Descending
+- Counting Sort — Ascending and Descending
+- Java's Built-in Sorting
 
 ### Matrices
 - Matrix Search
-- Search in Sorted Matrix
+- Search in a Sorted Matrix
 - Spiral Matrix
 - Diagonal Sum
 - Matrix Transpose
-- Largest & Smallest Element in Matrix
-- Sum of 2nd Row
+- Largest and Smallest Elements
+- Sum of the Second Row
 
 ### Strings
 - Palindrome Check
@@ -62,49 +64,41 @@ DSA/
 - Lexicographical Comparison
 - Substrings
 - Uppercase Conversion
-- Count Vowels
+- Counting Vowels
 - Shortest Path
 
 ### Bit Manipulation
 - Odd or Even
-- Get i-th Bit
-- Set i-th Bit
-- Clear i-th Bit
-- Update i-th Bit
-- Clear Last i Bits
-- Clear Range of Bits
+- Get, Set, Clear, and Update the i-th Bit
+- Clear the Last i Bits
+- Clear a Range of Bits
 - Count Set Bits
 - Fast Exponentiation
-- Swap Without Temporary Variable
-- Power of 2 Check
-- Add 1 Using NOT Operator
+- Swap Without a Temporary Variable
+- Check if a Number Is a Power of Two
+- Add One Using the NOT Operator
 
-## Notes
+### Striver's A2Z DSA Sheet
+- Recursion practice problems
 
-The repository also includes:
+## 📝 Notes
 
-- **DSA-Java-notes.pdf**
-  - Handwritten notes
-  - Concept explanations
-  - Algorithms
-  - Time & Space Complexity analysis
-  - Important observations and formulas
+The repository includes `DSA-Java-notes.pdf`, containing handwritten notes on concepts, algorithms, time and space complexity, important observations, and formulas.
 
-## Technologies Used
+## 🛠️ Technologies & Tools
 
-- Java
-- VS Code
-- Git & GitHub
+- **Language:** Java
+- **Editor:** Visual Studio Code
+- **Version Control:** Git and GitHub
 
-## Purpose
+## 🎯 Purpose
 
-This repository is maintained to:
-
-- Practice Data Structures & Algorithms
-- Strengthen problem-solving skills
-- Prepare for coding interviews and online assessments
-- Track learning progress
+- Practise Data Structures and Algorithms using Java.
+- Strengthen logical thinking and problem-solving skills.
+- Understand algorithms through implementation and practice.
+- Maintain a record of my learning progress.
+- Prepare for coding interviews and online assessments.
 
 ---
 
-Currently learning and adding more DSA topics regularly.
+This repository is a work in progress, with more problems and DSA concepts being added as I continue learning.
